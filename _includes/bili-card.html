@@ -1,0 +1,21 @@
+{% assign profile = include.uid | prepend: "https://space.bilibili.com/" %}
+{% assign permalink = include.bvid | prepend: "https://bilibili.com/video/"%}
+
+<div class="twitter-card">
+  <header>
+    <a class="account" href="{{ profile }}">
+      <img class="avatar" src="{{ include.avatar }}" />
+      <strong>{{ include.name }}</strong>
+      <p>发布了视频 {{ include.title }}</p>
+    </a>
+  </header>
+
+  <p>{{ include.contents }}</p>
+
+  <footer>
+    <a href="{{ permalink }}">
+      <span>前往 bilibili 观看 →</span>
+      <time datetime="{{ include.timestamp | date:"%Y-%m-%d" }}">{{ include.timestamp | date: "%Y-%m-%d" }}</time>
+    </a>
+  </footer>
+</div>
