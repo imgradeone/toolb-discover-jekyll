@@ -11,7 +11,7 @@ We wanted to quote/embed a tweet in our blog, but don't like the idea of pulling
 {% raw %}{% include twitter-card.html
   name="Cassidy James Blaede"
   account="CassidyJames"
-  avatar="https://gravatar.com/avatar/41275ecc8271aca852ce2c0ff72d2610?s=128"
+  avatar="https://gravatar.loli.net/avatar/41275ecc8271aca852ce2c0ff72d2610?s=128"
   id="1281816033343537152"
   timestamp="2020-07-10"
   contents="Got my PINEBOOK Pro! Super duper first impressions: damn, this
@@ -26,7 +26,7 @@ Turns into:
 {% include twitter-card.html
   name="Cassidy James Blaede"
   account="CassidyJames"
-  avatar="https://gravatar.com/avatar/41275ecc8271aca852ce2c0ff72d2610?s=128"
+  avatar="https://gravatar.loli.net/avatar/41275ecc8271aca852ce2c0ff72d2610?s=128"
   id="1281816033343537152"
   timestamp="2020-07-10"
   contents="Got my PINEBOOK Pro! Super duper first impressions: damn, this
