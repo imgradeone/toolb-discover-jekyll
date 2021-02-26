@@ -2,7 +2,10 @@
 title: Toolb 发现 2.0。
 description: wow, awesome.
 author: imgradeone
+image: /images/discover-media.png
 ---
+
+![](/images/discover-media.png)
 
 欢迎来到全新的 Toolb 发现。它，还是那个发现，但它变得不一样了。
 
