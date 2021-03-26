@@ -1,5 +1,5 @@
 ---
-title: Future Post
+title: "??????????"
 description: "We come from the future!"
 author: imgradeone
 image: https://source.unsplash.com/featured?future

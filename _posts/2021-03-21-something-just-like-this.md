@@ -11,6 +11,8 @@ tags:
 
 ![](/images/sth.png)
 
+虽是小学生，但在红领巾的衬托下，生命力一下就绽放了。同时也结合了襄阳城的历史，优雅而不失内涵。
+
 <div style="text-align: center">
   <p><a rel="nofollow noopener noreferrer" target="_blank" href="https://www.bilibili.com/video/BV1W4411E7zn" class="button">前往 bilibili 观看</a></p>
 </div>
