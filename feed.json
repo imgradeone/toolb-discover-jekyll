@@ -26,7 +26,7 @@ layout: uglify
         "name": "{{ author.name }}"
       {% else %}
         "gravatar": "{{ site.gravatar }}",
-        "name": "elementary"
+        "name": "imgradeone"
       {% endif %}
       },
       {% if post.image %}
@@ -41,7 +41,7 @@ layout: uglify
       "excerpt": "{{ post.excerpt | strip_html | truncatewords: 40 | jsonify }}",
       {% endif %}
       {% assign words = post.content | strip_html | number_of_words %}
-      "read_time": "{{ words | divided_by: 200 | plus: 1 }} min read"
+      "read_time": "{{ words | divided_by: 350 | plus: 1 }} 分钟阅读"
     }
     {% unless counter >= 3 %},{% endunless %}
     {% endunless %}
