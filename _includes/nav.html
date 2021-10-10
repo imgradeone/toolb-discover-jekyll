@@ -20,34 +20,12 @@
     <div>
       <a href="{{ site.baseurl }}/tags/">所有标签</a>
       <a href="{{ site.baseurl }}/tags/#2021-discover">MIXAGE FIGHTERS 2021</a>
+      <a href="{{ site.baseurl }}/tags/#animation">动画</a>
+      <a href="{{ site.baseurl }}/tags/#kichiku">鬼畜</a>
+      <a href="{{ site.baseurl }}/tags/#music">音乐</a>
+      <a href="{{ site.baseurl }}/tags/#bnj">拜年祭</a>
       <!--<a href="{{ site.baseurl }}/tags/#devs">Developers</a>
       <a href="{{ site.baseurl }}/tags/#design">Design</a> -->
     </div>
-
-    <div id="search-container" class="hidden">
-      {% include svg/edit-find-symbolic.svg %}
-      <input type="text" id="search-input" placeholder="搜索发现">
-      <ul id="results-container"></ul>
-    </div>
-
-    <script src="/scripts/search.js"></script>
-
-    <script>
-      document.getElementById('search-container').classList.remove("hidden")
-
-      SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        searchResultTemplate: `<li>
-          <a href="{url}">
-            <div class="featured-image" alt="Featured image" style="background-image: url({image});"></div>
-            <span id="title">{title}</span>
-            <span id="description">{description}</span>
-          </a>
-        </li>`,
-        resultsContainer: document.getElementById('results-container'),
-        noResultsText: ("No Result Found"),
-        json: '/search.json'
-      })
-    </script>
   </nav>
 </header>
