@@ -7,6 +7,7 @@ image: /images/zhuyuejie-tongrenpv.png
 tags:
   - 2021-discover
   - animation
+  - genshin
 ---
 
 <figure class="full-bleed" markdown="1">

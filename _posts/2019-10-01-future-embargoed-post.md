@@ -2,12 +2,9 @@
 title: Future Embargoed Post
 description: Shh, it's a secret!
 author: imgradeone
-tags:
-  - meta
-  - embargo
 image: https://source.unsplash.com/featured?secret
 
-hidden: 3000-01-01T00:00:00Z
+hidden: true
 date: 2019-10-01
 ---
 

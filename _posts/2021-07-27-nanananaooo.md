@@ -6,6 +6,7 @@ image: /images/nanananaooo.jpg
 
 tags:
   - 2021-discover
+  - genshin
 ---
 
 ![](/images/nanananaooo.jpg)
