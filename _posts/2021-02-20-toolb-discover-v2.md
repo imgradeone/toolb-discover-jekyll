@@ -7,7 +7,7 @@ image: /images/discover-media.png
 
 ![](/images/discover-media.png)
 
-欢迎来到全新的 Toolb 发现。它，还是那个发现，但它变得不一样了。
+欢迎来到全新的 Toolb 发现。它，还是那个 Toolb 发现，但它变得更不一样了。
 
 ## 从 Gridea 迁移到 Jekyll
 
@@ -19,7 +19,7 @@ Jekyll 是一个不错的博客系统，它可以直接渲染 Markdown 文件，
 
 可能是 elementary OS 的开源情怀驱使，Toolb 发现页采用了 [elementary 博客的同款 Jekyll 模板](https://github.com/elementary/blog-template)。
 
-elementary 的博客模板可以说十分优秀，简约的风格，暗黑模式支持，还有部分特色功能，十分符合 Toolb 发现站的个性。
+elementary 的博客模板可以说十分优秀，简约的风格，暗黑模式支持，完全响应式设计，还有部分特色功能，十分符合 Toolb 发现站的个性，也非常易于使用、定制。
 
 ## 以前的发现怎么办？
 
