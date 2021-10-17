@@ -1,7 +1,7 @@
 ---
 ---
 
-# 作者（？）
+# 作者
 
 <section class="author-list">
 {% assign site_authors = site.authors | sort %}
